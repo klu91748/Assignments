@@ -1,0 +1,1 @@
+This is a calculator program that can execute adding, subtracting, multiplying, and dividing. It is able to handle edge cases so that the program cannot crash.
