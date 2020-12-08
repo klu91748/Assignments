@@ -1,0 +1,1 @@
+This program finds the longest increasing subsequence by looping through the array and using binary search. It prints out the length of the longest increasing subsequence.
