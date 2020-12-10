@@ -1,0 +1,1 @@
+I was able to fix bugs on this program including the searching and sorting method. The searching method runs in O(N) time and the sorting method runs in O(N lgn) time
